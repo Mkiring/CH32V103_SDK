@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.java": "java",
+        "ch32v10x.h": "c",
+        "system_ch32v10x.h": "c",
+        "stdint.h": "c"
+    }
+}

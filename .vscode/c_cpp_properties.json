@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "D:\\Software\\MounRiver\\MounRiver_Studio\\toolchain\\RISC-V Embedded GCC/**",
+                "C:\\Users\\26488\\Desktop\\CH32V103_SDK/**",
+                "C:\\Users\\26488\\Desktop\\CH32V103_SDK\\Peripheral/**",
+                "C:\\Users\\26488\\Desktop\\CH32V103_SDK\\Core/**",
+                "C:\\Users\\26488\\Desktop\\CH32V103_SDK\\Debug/**",
+                "C:\\Users\\26488\\Desktop\\CH32V103_SDK\\Ld/**",
+                "C:\\Users\\26488\\Desktop\\CH32V103_SDK\\Startup/**",
+                "C:\\Users\\26488\\Desktop\\CH32V103_SDK\\DES/**",
+                "C:\\Users\\26488\\Desktop\\CH32V103_SDK\\SOR/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "compilerPath": "D:\\Software\\MounRiver\\MounRiver_Studio\\toolchain\\RISC-V Embedded GCC\\bin\\riscv-none-embed-gcc.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-arm"
+        }
+    ],
+    "version": 4
+}
