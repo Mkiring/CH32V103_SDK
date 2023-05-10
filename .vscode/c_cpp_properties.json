@@ -11,7 +11,15 @@
                 "C:\\Users\\26488\\Desktop\\CH32V103_SDK\\Ld/**",
                 "C:\\Users\\26488\\Desktop\\CH32V103_SDK\\Startup/**",
                 "C:\\Users\\26488\\Desktop\\CH32V103_SDK\\DES/**",
-                "C:\\Users\\26488\\Desktop\\CH32V103_SDK\\SOR/**"
+                "C:\\Users\\26488\\Desktop\\CH32V103_SDK\\SOR/**",
+                "C:\\Users\\26488\\Desktop\\CH32V103_SDK\\Demo\\Core/**",
+                "C:\\Users\\26488\\Desktop\\CH32V103_SDK\\Demo\\Debug/**",
+                "C:\\Users\\26488\\Desktop\\CH32V103_SDK\\Demo\\Ld/**",
+                "C:\\Users\\26488\\Desktop\\CH32V103_SDK\\Demo\\obj/**",
+                "C:\\Users\\26488\\Desktop\\CH32V103_SDK\\Demo\\Peripheral/**",
+                "C:\\Users\\26488\\Desktop\\CH32V103_SDK\\Demo\\Startup/**",
+                "C:\\Users\\26488\\Desktop\\CH32V103_SDK\\Demo\\User/**"
+
             ],
             "defines": [
                 "_DEBUG",
