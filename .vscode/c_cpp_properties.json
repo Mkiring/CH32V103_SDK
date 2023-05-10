@@ -19,7 +19,6 @@
                 "C:\\Users\\26488\\Desktop\\CH32V103_SDK\\Demo\\Peripheral/**",
                 "C:\\Users\\26488\\Desktop\\CH32V103_SDK\\Demo\\Startup/**",
                 "C:\\Users\\26488\\Desktop\\CH32V103_SDK\\Demo\\User/**"
-
             ],
             "defines": [
                 "_DEBUG",
@@ -30,7 +29,8 @@
             "compilerPath": "D:\\Software\\MounRiver\\MounRiver_Studio\\toolchain\\RISC-V Embedded GCC\\bin\\riscv-none-embed-gcc.exe",
             "cStandard": "c17",
             "cppStandard": "c++17",
-            "intelliSenseMode": "windows-gcc-arm"
+            "intelliSenseMode": "windows-gcc-arm",
+            "configurationProvider": "ms-vscode.makefile-tools"
         }
     ],
     "version": 4
