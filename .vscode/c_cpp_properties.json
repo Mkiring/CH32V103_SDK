@@ -26,7 +26,7 @@
                 "_UNICODE"
             ],
             "windowsSdkVersion": "10.0.19041.0",
-            "compilerPath": "D:\\Software\\MounRiver\\MounRiver_Studio\\toolchain\\RISC-V Embedded GCC\\bin\\riscv-none-embed-gcc.exe",
+            "compilerPath": "C:\\Users\\26488\\Desktop\\CH32V103_SDK\\toolchain\\RISC-V Embedded GCC\\bin\\riscv-none-embed-gcc.exe",
             "cStandard": "c17",
             "cppStandard": "c++17",
             "intelliSenseMode": "windows-gcc-arm",
