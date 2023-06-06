@@ -43,14 +43,11 @@ typedef enum
 /* GPIO Init structure definition */
 typedef struct
 {
-    uint16_t GPIO_Pin; /* Specifies the GPIO pins to be configured.
-                          This parameter can be any value of @ref GPIO_pins_define */
+    uint16_t GPIO_Pin; /* 指定要配置的GPIO引脚，此参数可以是@ref GPIO_pins_define 的任何值 */
 
-    GPIOSpeed_TypeDef GPIO_Speed; /* Specifies the speed for the selected pins.
-                                     This parameter can be a value of @ref GPIOSpeed_TypeDef */
+    GPIOSpeed_TypeDef GPIO_Speed; /* 指定引脚速度，此参数可以是@ref GPIOSpeed_TypeDef 的任何值 */
 
-    GPIOMode_TypeDef GPIO_Mode; /* Specifies the operating mode for the selected pins.
-                                   This parameter can be a value of @ref GPIOMode_TypeDef */
+    GPIOMode_TypeDef GPIO_Mode; /* 指定所选引脚的工作模式，此参数可以是@ref GPIOMode_TypeDef 的任何值 */
 } GPIO_InitTypeDef;
 
 /* Bit_SET and Bit_RESET enumeration */
